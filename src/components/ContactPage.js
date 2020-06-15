@@ -2,7 +2,8 @@ import React from 'react'
 
 const ContactPage = () => (
     <div>
-        Here is my contact info
+        <h3>Here is my contact info:</h3>
+        <p>test@example.com</p>  
     </div>
 )
 
