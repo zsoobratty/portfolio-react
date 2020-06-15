@@ -2,7 +2,7 @@ import React from 'react'
 
 const HomePage = () => (
     <div>
-        This is from my dashboard component
+        <h1>Welcome to my portfolio site!</h1> 
     </div>
 )
 
