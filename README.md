@@ -1,11 +1,7 @@
-﻿# Indecision App
+﻿# Portfolio
 
-### An decision app built using JavaScript, React, Babel, Webpack and SCSS. Let the computer decide what you want to do today.
-
-
-![Alt text](/screenshots/Indecision.PNG?raw=true "Indecision")  
-
-![Alt text](/screenshots/Modal.PNG?raw=true "Modal")
+### Quick portfolio challenge from The Complete React Developer Course
+### To be expanded to an actual portfolio
 
 Learning how to build and launch React web applications using React, Redux, Webpack, React-Router, and more, from the Udemy course:
 #### The Complete React Developer Course (w/ Hooks and Redux) by Andrew Mead
